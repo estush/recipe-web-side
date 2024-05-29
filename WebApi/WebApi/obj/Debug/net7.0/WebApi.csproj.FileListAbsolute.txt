@@ -1,0 +1,398 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\BLL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\BLL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\WebApi\bin\Debug\net7.0\DTO.pdb
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.exe
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.deps.json
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\WebApi.pdb
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.dll
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\BLL.pdb
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DAL.pdb
+G:\B\פרויקט גמר\WebApi\WebApi\bin\Debug\net7.0\DTO.pdb
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+G:\B\פרויקט גמר\WebApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\appsettings.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\BLL.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\BLL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\DAL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\bin\Debug\net7.0\DTO.pdb
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\Users\The user\Desktop\react-project\WebApi\WebApi\obj\Debug\net7.0\ref\WebApi.dll

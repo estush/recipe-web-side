@@ -1,0 +1,73 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+G:\B\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+G:\B\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+G:\B\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+G:\B\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+G:\B\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Users\The user\Desktop\react-project\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\Users\The user\Desktop\react-project\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\Users\The user\Desktop\react-project\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll

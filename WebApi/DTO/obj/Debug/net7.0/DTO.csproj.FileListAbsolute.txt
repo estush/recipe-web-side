@@ -1,0 +1,78 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+G:\B\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+G:\B\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+G:\B\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+G:\B\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+G:\B\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+G:\B\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\Users\The user\Desktop\react-project\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+D:\Users\The user\Desktop\react-project\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+D:\Users\The user\Desktop\react-project\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll

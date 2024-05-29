@@ -1,0 +1,88 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\BLL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\BLL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\bin\Debug\net7.0\DTO.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\This User\Desktop\react\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\The user\Desktop\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+D:\The user\Desktop\לימודים\שנה א\project_recipe\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\ref\BLL.dll
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.deps.json
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.dll
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\BLL.pdb
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.dll
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.dll
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DAL.pdb
+G:\B\פרויקט גמר\WebApi\BLL\bin\Debug\net7.0\DTO.pdb
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+G:\B\פרויקט גמר\WebApi\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\BLL.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\DAL.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\DTO.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\DAL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\BLL\bin\Debug\net7.0\DTO.pdb
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Users\The user\Desktop\react-project\WebApi\BLL\obj\Debug\net7.0\ref\BLL.dll

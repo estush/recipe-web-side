@@ -1,0 +1,153 @@
+/* Write your CSS code here */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Rubik", sans-serif;
+    background-color: #f6f2ef;
+}
+
+.container {
+    color: #f24825;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.title {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.description {
+    width: 60%;
+    text-align: center;
+}
+
+.burger-slider {
+    overflow: hidden;
+    background-color: white;
+    width: 80vw;
+    height: 200px;
+    position: relative;
+}
+
+.burger-slider::after,
+.burger-slider::before {
+
+    position: absolute;
+    width: 50px;
+    height: 100%;
+    content: "";
+    background: linear-gradient(to right, rgba(246, 242, 239, 1) 0%, rgba(246, 242, 239, 0) 100%);
+}
+
+.burger-slider::before {
+    left: 0;
+    top: 0;
+    z-index: 2;
+}
+
+.burger-slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg);
+}
+
+.slider-wrapper {
+    height: 100%;
+    width: calc(300px*18);
+    display: flex;
+    animation: slide 35s linear infinite;
+}
+.slider-wrapper:hover{
+animation-play-state: paused;
+}
+
+.slide {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.slide:has(:hover)>.img-container>.burger-info {
+    opacity: 1;
+}
+
+.img-container {
+    width: 80%;
+    height: 80%;
+    overflow: hidden;
+    position: relative;
+}
+
+.burger-image {
+    object-fit: cover;
+    width: 300px;
+}
+
+.burger-info {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    transition: all 500ms ease;
+}
+
+.burger-title {
+    font-weight: 500;
+    text-align: center;
+}
+
+.burger-description {
+    font-size: 12px;
+    text-align: center;
+}
+
+.add-to-cart {
+    width: 70%;
+    height: 40px;
+    border: none;
+    background: #f24825;
+    color: #f6f2ef;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: transform 500ms ease;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(1.1)
+    }
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0)
+    }
+
+    100% {
+        transform: translateX(calc(-300px*9))
+    }
+}

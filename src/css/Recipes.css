@@ -1,0 +1,167 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:'Montserrat';
+}
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  background:#ede2e2;
+  color:rgb(38, 126, 90);
+}
+.phone{
+  height:350px;
+  width:auto;
+}
+.card{
+  position:relative;
+  width:360px;
+  height:520px;
+  background:#efecec;
+  border-radius:20px;
+  overflow:hidden;
+}
+.card::before{
+  content:"";
+  position:absolute;
+  top:-50%;
+  width:100%;
+  height:100%;
+  background:linear-gradient(white,white);
+  transform:skewY(345deg);
+  transition:0.5s;
+}
+.card:hover::before{
+  top:-70%;
+  transform:skewY(390deg);
+}
+.card::after{
+  content:"Samsung Galaxy S23 Ultra";
+  position:absolute;
+  bottom:0;
+  left:0;
+  font-weight:600;
+  font-size:4em;
+  color:rgba(229, 219, 219, 0.1);
+}
+.card .img-container{
+  position:relative;
+  width:8cm;
+  height: 6cm;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding-top:20px;
+  /* z-inder:1; */
+}
+.card .container{
+  position:relative;
+  padding:20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  z-index:2;
+  color: black;
+}
+.card .container h1{
+  font-size:18px;
+  color:#1d1c1c;
+  font-weight:500;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+.card .container .price{
+  font-size:24px;
+  color:white;
+  font-weight:700;
+  letter-spacing:1px;
+}
+.card .container .buy{
+  position:relative;
+  top:100px;
+  opacity:0;
+  padding:10px 30px;
+  margin-top:15px;
+  color:#f3e9e9;
+  text-decoration:none;
+  background:linear-gradient(rgb(207, 214, 230), rgb(231, 239, 249));
+  border-radius:30px;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  transition:0.5s;
+}
+.card:hover .container .buy{
+  top:0;
+  opacity:1;
+}
+body{
+  background-color: #f6f2ef;
+}
+/* 
+.img1{
+  width: 4cm;
+  height: 3cm;
+} */
+
+
+
+
+/* Reset <select> defaults */
+.select-2{
+  display: flex;
+  gap: 10px;
+}
+select {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  background: none;
+  color: inherit;
+  box-shadow: none;
+}
+select::-ms-expand {
+  display: none;
+}
+/* Custom Select wrapper */
+.select {
+  color: #8b601b;
+  position: relative;
+  display: flex;
+  width: min(20rem, 90vw);
+  background:  #cdb8a4;;
+  border-radius: 0.50rem;
+  overflow: hidden;
+  
+  /* // Select style */
+  select {
+    flex: 10;
+    padding: 1em;
+    cursor: pointer;
+  }
+
+  /* // Arrow style */
+  &::after {
+    content: "\25BC";
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    transition: 2ms all ease;
+    pointer-events: none; 
+    /* // IMPORTANT to click on arrow */
+  }
+  /* // Arrow hover */
+  &:hover::after {
+    color: #8a8274;
+    animation: bounce 0.5s infinite;
+  }
+}
+@keyframes bounce {
+  25% {
+    transform: translatey(5px);
+  }
+  75% {
+    transform: translatey(-5px);
+  }}
