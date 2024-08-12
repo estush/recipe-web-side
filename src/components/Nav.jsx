@@ -14,29 +14,9 @@ export const Nav = () => {
         return !(userName == {} || isManager())
     }
     console.log(userName.email);
-// לבדוק איפה מאותחל היוזר
     return <>
         <div className='nav'>
-           
-
-
   <header>
-
-            
-            
-            
-            
-            {/* <NavLink to={'/addIngrediant'} className='link'>addIngrediant</NavLink> */}
-            
-            
-    
-
-
-
-
-
-
-
     <div class="top-nav-bar">
       <div class="row">
 
@@ -51,11 +31,9 @@ export const Nav = () => {
                 {!isManager()&&userName.email!=undefined && <NavLink to={'/MyRecipes'} className='link'>MyRecipes</NavLink>}
             </h4>
         </div>
-
         <div class="menu-list col-md-4">
           <nav>
             <ul id="navigation">
-              
               <li><NavLink to={'/Home1'} className='link'>Home</NavLink></li>
               <li><NavLink to={'/Login'} className='link'>Login</NavLink></li>
               <li><NavLink to={'/AllRecipe'} className='link'>AllRecipes</NavLink></li>
@@ -67,13 +45,9 @@ export const Nav = () => {
       </div>
       <span class="logo">
       <img src ={`${process.env.PUBLIC_URL}/images/לוגו עיגול.jpg`} alt="logo" className='logo'></img>
-        {/* <img src="https://i.postimg.cc/VNzdQj7x/My-Post.png" alt="logo"></img> */}
       </span>
     </div>
   </header>
-
-
-
         </div>
     </>
 }

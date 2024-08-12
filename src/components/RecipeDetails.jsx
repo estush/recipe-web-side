@@ -92,7 +92,7 @@ show=true
 
         }
 
-        {/* {list && list.map(resp=>{
+        {list && list.map(resp=>{
             return(
                 <div key={resp.id}> 
                     <p>id: {comment.id}</p>
@@ -101,7 +101,7 @@ show=true
                     <p>{comment.userName}</p>
                     <p>{resp.comment}</p>
                 </div>)
-            })} */}
+            })}
 if(currentUser){
         <div>
         <form onSubmit={(e) => addResponse(e)}>

@@ -18,8 +18,6 @@ import axios from "axios"
         const r=await axios.get(`https://localhost:7130/api/User/${email}/${password}`)
         debugger
         return r
-        //מחזירה את המשתמש המתאים – אם לא נמצא - x.data=""
-//	אם  - (x.data!="")המשתמש נמצא
 
     }
     // category
@@ -58,8 +56,6 @@ import axios from "axios"
         return axios.get(`https://localhost:7130/api/ IngredientsToRecipe/{recipeId}`)
     }
 
-
-// }
 
 
 

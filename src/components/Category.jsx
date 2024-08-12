@@ -5,13 +5,12 @@ import { useSelector } from "react-redux"
 export const Category =()=>{
     const user=useSelector(x=>x.currentUser)
     const [list, setList] = useState()
-    //החזרת כל הרמות 
+ 
     useEffect(() => {
         getCategory()
         .then(x => {
             setList(x.data)
         })
-            // תופס כשלון
         .catch(err => {
             console.log(err.message);
         })

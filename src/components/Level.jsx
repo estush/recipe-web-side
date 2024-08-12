@@ -3,14 +3,11 @@ import {getLevel,addLevel } from "./api"
 
 export const Level=()=>{
     const [list, setList] = useState()
-    //החזרת כל הרמות 
     useEffect(() => {
         getLevel()
-            // תופס הצלחה
         .then(x => {
             setList(x.data)
         })
-            // תופס כשלון
         .catch(err => {
             console.log(err.message);
         })

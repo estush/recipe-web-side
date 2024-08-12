@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../css/ImageSlide.css'; // Import CSS for styling
 
-// const images = ['../Images/חומוס.jpg', '../Images/3 כפות תבלינים.jpg', '../Images/4 כפות.jpg']; // Add your image paths here
 
 const ImageSlider = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

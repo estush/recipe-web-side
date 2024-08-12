@@ -1,7 +1,5 @@
 import { useNavigate } from 'react-router'
 import '../css/home.css'
-// import '../css/style.css'
-// import HomePic from "../Images/מיקס-תבלינים-1.jpg"
 export const Home1 = () => {
 
     const nav = useNavigate()
