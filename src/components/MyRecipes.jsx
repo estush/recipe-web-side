@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import { useSelector } from "react-redux"
 import { Outlet, useNavigate } from "react-router"
-import { getAllRecipe } from "./api"
+import { getAllRecipe } from "./js/api"
 
 export const MyRecipes = () => {
 

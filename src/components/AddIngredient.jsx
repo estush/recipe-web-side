@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { addIngrediant, getIngrediant } from "./api"
+import { addIngrediant, getIngrediant } from "./js/api"
 import { useEffect } from "react"
 import {  useNavigate } from "react-router";
 
@@ -20,7 +20,6 @@ export const AddIngredient =()=>{
         })
     })
     const Add=(event)=>{
-        debugger
         event.preventDefault()
         addIngrediant({name: event.target[0].value})
         .then(x => {
@@ -29,7 +28,6 @@ export const AddIngredient =()=>{
             nav(`/AddRecipe`)
         })
         .catch(err => {
-            alert('עחעח')
             console.log(err.message);
         })
 

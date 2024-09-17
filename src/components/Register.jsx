@@ -2,21 +2,18 @@
 // export default Register;
 
 import { useRef } from "react"
-// import './api'
-// import api from "./api"
-// import {addUser} from "./api"
 
 import { useNavigate } from "react-router"
-import { useDispatch, useSelector } from "react-redux"
-import { setUser } from "../redux/action"
+import { useDispatch,  } from "react-redux"
+import { setCurrentUser } from "../redux/action"
 import swal from "sweetalert"
 
 
 
 import "../css/register.css"
-import { addUser, getUser } from "./api"
+import { addUser, getUser } from "./js/api"
 export const Register = () => {
-
+    let dis = useDispatch();
     const nav = useNavigate()
     const lastRef = useRef()
     const firstRef = useRef()
@@ -32,8 +29,6 @@ export const Register = () => {
                 }
                
                 else {
-                    debugger
-                   
                     const u = {
                         lastName: lastRef.current.value,
                         firstName: firstRef.current.value,
@@ -42,9 +37,7 @@ export const Register = () => {
                     }
                    
                     addUser(u).then((y) => {
-         
-                        dis(setUser(y.data))
-                     
+                        dis(setCurrentUser(y.data))
                         nav('/Home');
                     })
 

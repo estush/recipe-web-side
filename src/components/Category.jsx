@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { getCategory,addCategory} from "./api"
+import { getCategory,addCategory} from "./js/api"
 import { useSelector } from "react-redux"
 
 export const Category =()=>{

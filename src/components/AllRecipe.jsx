@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getAllRecipe, getCategory, getLevel, getUser } from "./api"
+import { getAllRecipe, getCategory, getLevel, getUser } from "./js/api"
 import { Outlet, useNavigate } from "react-router";
 import { useDispatch } from "react-redux";
 import "../css/Recipes.css"
@@ -67,7 +67,6 @@ export const AllRecipe = () => {
 
 
     function getC(event) {
-        debugger
         setCategory(event)
         console.log(category);
     }

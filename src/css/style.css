@@ -1,143 +1,169 @@
-
-  
-  .top-nav-bar {
-    padding: 0;
-    margin: auto;
-    top: 0;
-  }
-  .row {
-    background: #fff;
-    height: 50px;
-    width: 100%;
-    
-  }
-  .col-md-4 {
-    width: 42%;
-  }
-  .company-area {
-    float: left;
-     -moz-flex: 1;
-      -webkit-flex: 1;
-      -ms-flex: 1;
-      flex: 1;
-  }
-  .company-area h4 {
-    color: #000;
-    text-align: center;
-    color: #e5c2a0;
-    text-decoration: none;
-    text-transform: uppercase;
-  }
-  .menu-list {
-    float: right;
-    -moz-flex: 1;
-      -webkit-flex: 1;
-      -ms-flex: 1;
-      flex: 1;
-      overflow: hidden;
-  }
-  
-  ul li {
-    display: inline;
-    margin-left: 1em;
-    border-left: solid 1px rgba(160, 160, 160, 0.3);
-    line-height: 1;
-      padding-left: 1em;
-  }
-  ul li:first-child {
-    border-left: 0;
-      margin-left: 0;
-      padding-left: 0;
-  }
-  ul li  {
-    border-bottom: 0;
-      font-family: inherit;
-      font-size: 2ch;
-      font-weight: 400;
-      letter-spacing: 0.25em;
-      text-transform: uppercase;
-    color: #e5c2a0;
-      text-decoration: none;
-  }
-  ul li :hover {
-    color: #e5c2a0;
-    font-weight:bold;
-    font-size: x-large;
-  }
-  
-  ul li:active {
-    color: #e5c2a0;
-    text-decoration:underline;
-    font-weight:bold;
-    font-size: large;
-
+/* כלליים */
+body {
+  background-color: #f6f2ef; /* צבע רקע */
+  margin: 0; /* הסרת רווחים סביב העמוד */
+  font-family: Arial, sans-serif; /* קביעת גופן כללי */
 }
 
+/* סרגל ניווט עליון */
+.top-nav-bar {
+  position: fixed; /* ישאר תמיד למעלה */
+  top: 0; /* מיקום למעלה */
+  left: 0; /* מיקום בצד שמאל */
+  width: 100%; /* לרוחב כל המסך */
+  z-index: 1000; /* מיקום מעל תוכן אחר */
+  background-color: #fff; /* צבע רקע */
+  padding: 0;
+  margin: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* צלליות קלות למראה מקצועי */
+}
 
-  .top-nav-bar span img{
-    position: absolute;
-    left: 45%;
-    top: 2px;
-    padding: 0;
-    margin: 0;
-    height: 100px;
-  }
-  
-  .top-banner {
-    height: 90vh;
-    background-image: url('https://i.ytimg.com/vi/DGIXT7ce3vQ/maxresdefault.jpg');
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .intro {
-    position: absolute;
-    top: 15em;
-    right: 5em;
-  }
-  .intro h1 {
-    font-size: 2em;
-    font-weight: 700;
-    color: #e5c2a0;
-  }
+/* תצוגת השורות והעמודות בסרגל */
+.row {
+  display: flex; /* תצוגה עם Flexbox */
+  align-items: center; /* יישור אנכי */
+  height: 50px; /* גובה קבוע */
+  width: 100%; /* לרוחב כל המסך */
+  margin: 0; /* הסרת מרג'ין */
+}
 
+/* עיצוב אזור החברה */
+.company-area {
+  flex: 1; /* תופס מקום פנוי */
+  display: flex; /* תצוגה עם Flexbox */
+  flex-direction: row; /* סדר את הפריטים בשורה */
+  align-items: center; /* יישור אנכי למרכז */
+  justify-content: center; /* יישור אופקי למרכז */
+  padding: 1em; /* הוספת ריפוד פנימי */
+  gap: 1em; /* רווח בין פריטים */
+}
 
-  ::-webkit-scrollbar {
-    width: 18px;
-    
-  }
-  ::-webkit-scrollbar-track {
-    background: #E7E5E8;
-  }
+.company-area h4 {
+  color: #301b5b; /* צבע טקסט */
+  text-align: center; /* יישור מרכזי */
+  text-transform: uppercase; /* אותיות רישיות */
+  margin: 0; /* הסרת מרג'ין */
+  display: flex; /* תצוגה עם Flexbox */
+  flex-direction: row; /* סדר את הפריטים בשורה */
+  align-items: center; /* יישור אנכי */
+  gap: 1em; /* רווח בין פריטים */
+}
 
-  ::-webkit-scrollbar-thumb {
+/* עיצוב פריטי ה-h1 ב-company-area */
+.company-area h4 h1 {
+  margin: 0; /* הסרת מרג'ין */
+}
 
-    height: 3ch;
-    background: #f1f1ec;
-    border: 4px solid #fcfafc;
-    border-radius: 8px;
-    
-  }
-  body{
-    background-color: #f6f2ef;
-  }
-  .logo{
-    /* width: ; */
-    width: 100px;
-    /* height: 100px; */ 
-    height: 180px; 
-  }
-  .category
-  {
-    border-bottom: 0;
-    font-family: inherit;
-    font-size: 2ch;
-    font-weight: 400;
-    letter-spacing: 0.25em;
-    text-transform: uppercase;
-  color: #e5c2a0;
-    text-decoration: none;
+/* עיצוב הקישורים ב-company-area */
+.company-area .link {
+  margin: 0; /* הסרת מרג'ין */
+  text-decoration: none; /* הסרת קו תחתון מהקישורים */
+  color: #1c0d4e; /* צבע טקסט */
+  font-size: 1em; /* גודל טקסט */
+  transition: color 0.3s, font-size 0.3s, font-weight 0.3s; /* אנימציה חלקה */
+}
 
+.company-area .link:hover {
+  color: #b09a8e; /* צבע קישור בעת ריחוף */
+  font-weight: bold; /* הדגשת גופן */
+}
 
-    
-  }
+/* עיצוב התפריט */
+.menu-list {
+  display: flex; /* תצוגה עם Flexbox */
+  justify-content: flex-end; /* מיקום התפריטים בצד ימין */
+  padding: 0; /* הסרת ריפוד ברשימה */
+  margin: 0; /* הסרת מרג'ין */
+}
+
+.menu-list ul {
+  display: flex; /* תצוגת רשימה אופקית */
+  padding: 0; /* הסרת ריפוד ברשימה */
+  margin: 0; /* הסרת מרג'ין */
+  list-style: none; /* הסרת סימני הרשימה */
+}
+
+.menu-list li {
+  margin-left: 1em; /* רווח בין פריטים */
+  border-left: solid 1px rgba(160, 160, 160, 0.3); /* גבול בצד שמאל */
+  padding-left: 1em; /* ריפוד בצד שמאל */
+  font-size: 2ch; /* גודל טקסט */
+  font-weight: 400; /* עובי גופן */
+  letter-spacing: 0.25em; /* רווח בין אותיות */
+  text-transform: uppercase; /* אותיות רישיות */
+  color: #e5c2a0; /* צבע טקסט */
+  text-decoration: none; /* ללא קישורים תחתונים */
+  transition: color 0.3s, font-size 0.3s, font-weight 0.3s; /* אנימציה חלקה */
+}
+
+.menu-list li:first-child {
+  border-left: 0; /* הסרת גבול ראשון */
+  margin-left: 0; /* הסרת רווח ראשון */
+  padding-left: 0; /* הסרת ריפוד ראשון */
+}
+
+.menu-list li:hover {
+  color: #b09a8e; /* צבע בטפטוף */
+  font-weight: bold; /* הדגשת גופן */
+  font-size: x-large; /* גודל טקסט מוגדל */
+}
+
+.menu-list li:active {
+  color: #e5c2a0; /* צבע בעת לחיצה */
+  text-decoration: underline; /* קו תחתון בעת לחיצה */
+  font-weight: bold; /* הדגשת גופן */
+  font-size: large; /* גודל טקסט מוגדל מעט */
+}
+
+/* עיצוב הלוגו */
+.top-nav-bar span.logo {
+  position: absolute; /* מיקום מוחלט */
+  left: 50%; /* מיקום אמצעי אופקי */
+  transform: translateX(-50%); /* למרכז את התמונה */
+  top: 0; /* מיקום למעלה */
+  height: 50px; /* גובה קבוע */
+  padding: 0;
+  margin: 0;
+}
+
+.top-nav-bar span img {
+  height: 100%; /* התמונה תתפרס לגובה של הסרגל */
+  width: auto; /* שמירה על יחס גובה-רוחב */
+}
+
+/* עיצוב התמונה של הסרגל */
+.top-banner {
+  height: 90vh; /* גובה מסך מלא */
+  background-image: url('https://i.ytimg.com/vi/DGIXT7ce3vQ/maxresdefault.jpg'); /* תמונת רקע */
+  background-position: 50% 50%; /* מיקום התמונה */
+  background-repeat: no-repeat; /* ללא חזרה על התמונה */
+  background-size: cover; /* התמונה תתפרס על כל הרקע */
+}
+
+/* עיצוב ה-intro */
+.intro {
+  position: absolute; /* מיקום מוחלט */
+  top: 15em; /* מיקום אנכי */
+  right: 5em; /* מיקום אופקי */
+}
+
+.intro h1 {
+  font-size: 2em; /* גודל טקסט */
+  font-weight: 700; /* עובי גופן */
+  color: #e5c2a0; /* צבע טקסט */
+}
+
+/* עיצוב הסקולבר */
+::-webkit-scrollbar {
+  width: 18px; /* רוחב הסקולבר */
+}
+
+::-webkit-scrollbar-track {
+  background: #E7E5E8; /* צבע הרקע של המסילה */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f1f1ec; /* צבע הסקולבר */
+  border: 4px solid #fcfafc; /* גבול של הסקולבר */
+  border-radius: 8px; /* פינות מעוגלות */
+}

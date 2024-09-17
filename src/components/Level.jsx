@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import {getLevel,addLevel } from "./api"
+import {getLevel,addLevel } from "./js/api"
 
 export const Level=()=>{
     const [list, setList] = useState()
@@ -14,7 +14,6 @@ export const Level=()=>{
     })
 // add level
     const send=async (event) =>{
-        debugger
         event.preventDefault()
         addLevel({name:event.target[0].value})
             .then(x => {
