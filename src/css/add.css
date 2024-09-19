@@ -95,7 +95,8 @@ input[type="submit"] {
 }
 
 input[type="submit"]:focus {
-    background: #CC4949; /* צבע רקע של כפתור כאשר הוא פעיל */
+    
+    background: #c3afaf; /* צבע רקע של כפתור כאשר הוא פעיל */
     color: #f5f5f5; /* צבע טקסט כאשר הכפתור פעיל */
 }
 

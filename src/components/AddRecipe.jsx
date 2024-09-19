@@ -3,6 +3,7 @@ import { addRecipe, getLevel, getCategory, getIngrediant, getAllRecipe } from ".
 import { useNavigate } from "react-router";
 import { useEffect, useState } from "react";
 import '../css/add.css';
+
 export const AddRecipe = () => {
     const user = useSelector(u => u.currentUser);
     const nav = useNavigate();
@@ -10,8 +11,7 @@ export const AddRecipe = () => {
     const [CategoryList, setCategoryList] = useState([]);
     const [LevelList, setLevelList] = useState([]);
     const [IngredientList, setIngredientList] = useState([]);
-    const [RecipeList, SetRecipeList] = useState([]);
-
+    
     const [byLevel, setLevel] = useState("");
     const [byCategory, setCategory] = useState("");
 
@@ -27,10 +27,6 @@ export const AddRecipe = () => {
         getIngrediant()
             .then(x => setIngredientList(x.data))
             .catch(err => console.log(err.message));
-
-        getAllRecipe()
-            .then(x => SetRecipeList(x.data))
-            .catch(err => console.log(err.message));
     }, []);
 
     const add = (event) => {
@@ -40,7 +36,10 @@ export const AddRecipe = () => {
         let lName = LevelList.find(x => x.id === byLevel)?.name || "";
 
         const newRecipe = {
+            id: 0, // חשוב להוסיף את השדה id
             name: event.target.name.value,
+            pic: event.target.pic.value, // הוסף שדה לתמונה
+            preparationTime: event.target.preparationTime.value, // הוסף שדה לזמן הכנה
             userId: user.id,
             userName: user.firstName,
             categoryId: byCategory,
@@ -53,7 +52,6 @@ export const AddRecipe = () => {
 
         addRecipe(newRecipe)
             .then(() => {
-                // alert("Success");
                 nav(`/Home1`); // Redirect after success if desired
             })
             .catch(err => console.log(err.message));
@@ -69,6 +67,9 @@ export const AddRecipe = () => {
             <form className="addRecipe" onSubmit={add}>
                 <label htmlFor="name">Name:</label>
                 <input id="name" name="name" type="text" placeholder="Recipe Name" required />
+                <br />
+                <label htmlFor="pic">Picture:</label>
+                <input id="pic" name="pic" type="text" placeholder="Picture URL" required /> {/* הוסף שדה לתמונה */}
                 <br />
                 <label htmlFor="preparationTime">Preparation Time:</label>
                 <input id="preparationTime" name="preparationTime" type="text" placeholder="Preparation Time" />

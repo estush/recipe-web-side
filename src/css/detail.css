@@ -2,3 +2,91 @@
     font-size: large;
     display: grid;
 }
+.styled-input {
+    width: 900px !important;
+    padding: 12px 20px !important;
+    border: 2px solid #ebe4e4 !important;
+    border-radius: 6px !important;
+    font-size: 1.5em !important;
+    color: rgb(145, 103, 103);;
+    background: #f9f9f9 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+    outline: none !important;
+    transition: all 0.3s ease !important;
+    height: 50px !important;
+  }
+  
+  /* עיצוב בעת פוקוס */
+  .styled-input:focus {
+    border-color: #eaedf1 !important;
+    background: none !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+  }
+  .popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* לוודא שהפופאפ מעל שאר התוכן */
+    animation: fadeIn 0.5s;
+}
+
+.popup-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px; /* רוחב הפופאפ */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.alldetails {
+    font-size: large;
+    color: rgb(145, 103, 103);
+    display: grid;
+}
+
+.styled-input {
+    width: 100% !important; /* הרחבה מלאה */
+    padding: 12px 20px !important;
+    border: 2px solid #ebe4e4 !important;
+    border-radius: 6px !important;
+    font-size: 1.5em !important;
+    color: rgb(145, 103, 103);
+    background: #f9f9f9 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+    outline: none !important;
+    transition: all 0.3s ease !important;
+    height: 50px !important;
+}
+
+.styled-input:focus {
+    border-color: #eaedf1 !important;
+    background: none !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* אנימציה של הפופאפ */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

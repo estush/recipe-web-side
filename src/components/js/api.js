@@ -52,14 +52,14 @@ import axios from "axios"
     export const addResIngrediant= (ring)=>{
         return axios.post(`https://localhost:7130/api/IngredientsToRecipe`,ring)
     }
-    export const getResIngrediant= ()=>{
-        return axios.get(`https://localhost:7130/api/ IngredientsToRecipe/{recipeId}`)
+    export const getResIngrediant = (recipeId) => {
+        return axios.get(`https://localhost:7130/api/IngredientsToRecipe/${recipeId}`);
     }
+    
     // response
     export const addResponse= (response)=>{
         return axios.post(`https://localhost:7130/api/CommentsToRecipe`,response)
     }
-    export const getResponse= ()=>{
-        return axios.get(`https://localhost:7130/api/ IngredientsToRecipe/{recipeId}`)
-    }
-
+    export const getResponse = (recipeId) => {
+        return axios.get(`https://localhost:7130/api/CommentsToRecipe/${recipeId}`);
+    };

@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arial', sans-serif; /* גופן כללי */
+    background-color: #f9f9f9; /* צבע רקע כללי */
+    margin: 0;
+    padding: 20px;
+}
+
+.category-container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center; /* מרכז את התוכן */
+}
+
+h1 {
+    color: #333; /* צבע הכותרת */
+}
+
+.category-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* רווח בין כרטיסי הקטגוריה */
+    justify-content: center; /* מרכז את הכרטיסים */
+    margin-bottom: 20px;
+}
+
+.category-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 200px; /* רוחב קבוע לכרטיסי הקטגוריה */
+}
+
+.add-category-form {
+    margin-top: 20px;
+}
+
+.add-category-form input[type='text'] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd; /* גבול סביב הקלט */
+    margin-right: 10px; /* רווח בין שדות הקלט */
+}
+
+.add-category-form input[type='submit'] {
+    background-color: rgb(145, 103, 103); /* צבע הכפתור */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* אנימציה לצבע */
+}
+
+.add-category-form input[type='submit']:hover {
+    background-color: #88534f; /* צבע הכפתור בהעברה */
+}

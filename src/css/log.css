@@ -60,10 +60,13 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
+  gap: 0px;
+
+  height: 300px; /* התאם את הגובה לפי הצורך */
+  color: #fff;
 }
 .login h1 {
-  font-size: 2em;
+  font-size: 3em;
   color: #fff;
 }
 .login .inputBx {
@@ -75,7 +78,7 @@
   width: 100%;
   padding: 12px 20px;
   background: none;
-  border: 2px solid #fff;
+  border: 2px solid #ffffff;
   border-radius: 40px;
   font-size: 1.2em;
   color: #8f5a4a;
@@ -89,7 +92,7 @@
   cursor: pointer;
 }
 .login .inputBx input::placeholder {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(89, 14, 14, 0.75);
 }
 .login {
   position: relative;

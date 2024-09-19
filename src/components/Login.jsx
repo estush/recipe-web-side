@@ -45,20 +45,23 @@ export const Login = () => {
 
     return (
         <div className="ring">
+            <i></i>
+            <i></i>
+            <i></i>
             <div className="login">
-                <h1>התחברות</h1>
+                <h1>login</h1>
                 <form onSubmit={send} className="login">
                     <div>
                         <label htmlFor='un'></label>
                         <div className="inputBx">
-                            <input id='un' placeholder="הכנס דואר אלקטרוני" />
+                            <input id='un' placeholder="enter email " />
                         </div>
                         <label htmlFor='pw'></label>
                         <div className="inputBx">
-                            <input type="password" id='pw' placeholder="הכנס סיסמה" />
+                            <input type="password" id='pw' placeholder="enter password" />
                         </div>
                         <div className="inputBx">
-                            <input type="submit" value='שלח' />
+                            <input type="submit" value='login' />
                         </div>
                     </div>
                 </form>
