@@ -7,13 +7,7 @@
   *::after {
     box-sizing: border-box;
   }
-  body {
-    display: flex;
-    place-content: center;
-    min-height: 100vh;
-    /* background: var(--background); */
-    color: white;
-  }
+
   /* Reset <select> defaults */
   select {
     appearance: none;
@@ -75,14 +69,6 @@
     box-sizing: border-box;
 }
 
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font-family: "Rubik", sans-serif;
-    background-color: #f6f2ef;
-}
 
 .container {
     color: #f24825;

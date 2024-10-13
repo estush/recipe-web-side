@@ -1,6 +1,4 @@
 import axios from "axios"
-
-// export default {
     // recipe
    export const getAllRecipe= () => {
         return axios.get(`https://localhost:7130/api/Recipe`)
@@ -8,8 +6,8 @@ import axios from "axios"
     export const addRecipe= (Recipe) => {
         return axios.post(`https://localhost:7130/api/Recipe`, Recipe)
         .then(response => {
-            console.log("Response from server:", response.data);  // הוסף שורת console.log זו כדי לראות את התגובה מהשרת
-            return response;
+            console.log("Response from server:", response.data); 
+              return response;
           
         })
         .catch(error => {

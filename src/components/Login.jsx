@@ -1,12 +1,9 @@
-// Login.js
-
 import swal from "sweetalert";
 import { getUser } from "./js/api";
 import { useDispatch, useSelector } from "react-redux";
 import { setCurrentUser, setManager } from "../redux/action";
 import { useNavigate } from 'react-router-dom';
 import '../css/log.css';
-
 
 export const Login = () => {
     const dispatch = useDispatch();
@@ -23,23 +20,23 @@ export const Login = () => {
 
         getUser(user.email, user.password)
             .then(response => {
-                if (!response.data || response.data == "") {
-                    swal("ההתחברות נכשלה!", "גש להרשמה", "error");
-                    navigate('/Register'); // תיקון נתיב
-                } else if (response.data.email == manager.email && response.data.password == manager.password) {
+                if (!response.data || response.data === "") {
+                    swal("Login failed!", "Please register", "error");
+                    navigate('/Register'); // Navigate to the registration page
+                } else if (response.data.email === manager.email && response.data.password === manager.password) {
                     dispatch(setManager(response.data));
-                    console.log(manager.firstName)
-                    swal(`ברוך הבא מנהל!`, "ההתחברות הצליחה", "success"); // תיקון שימוש במילוי מחרוזות
-                    navigate('/Home1'); // תיקון נתיב
+                    console.log(manager.firstName);
+                    swal(`Welcome, Manager!`, "Login successful", "success"); // Welcome message for the manager
+                    navigate('/Home1'); // Navigate to the home page
                 } else {
                     dispatch(setCurrentUser(response.data));
-                    swal(`ברוך הבא ${response.data.firstName}!`, "ההתחברות הצליחה", "success"); // תיקון שימוש במילוי מחרוזות
-                    navigate('/Home1'); // תיקון נתיב
+                    swal(`Welcome, ${response.data.firstName}!`, "Login successful", "success"); // Welcome message for the user
+                    navigate('/Home1'); // Navigate to the home page
                 }
             })
             .catch(err => {
-                console.error("שגיאה במהלך ההתחברות:", err);
-                swal("ההתחברות נכשלה!", "נסה שוב מאוחר יותר", "error");
+                console.error("Error during login:", err);
+                swal("Login failed!", "Please try again later", "error");
             });
     };
 
@@ -49,19 +46,19 @@ export const Login = () => {
             <i></i>
             <i></i>
             <div className="login">
-                <h1>login</h1>
+                <h1>Login</h1>
                 <form onSubmit={send} className="login">
                     <div>
                         <label htmlFor='un'></label>
                         <div className="inputBx">
-                            <input id='un' placeholder="enter email " />
+                            <input id='un' placeholder="Enter email" />
                         </div>
                         <label htmlFor='pw'></label>
                         <div className="inputBx">
-                            <input type="password" id='pw' placeholder="enter password" />
+                            <input type="password" id='pw' placeholder="Enter password" />
                         </div>
                         <div className="inputBx">
-                            <input type="submit" value='login' />
+                            <input type="submit" value='Login' />
                         </div>
                     </div>
                 </form>

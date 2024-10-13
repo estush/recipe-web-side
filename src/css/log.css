@@ -102,3 +102,16 @@
   justify-content: space-between;
   padding: 0 20px;
 }
+.login .inputBx {
+  position: relative;
+  width: 100%;
+  margin-bottom: 15px; /* מרווח בין כל אינפוט */
+}
+
+.login .inputBx input[type="submit"] {
+  width: 100%;
+  background: linear-gradient(45deg, #a57152, #d1cfc0);
+  border: none;
+  cursor: pointer;
+  margin-top: 10px; /* מרווח בין האינפוט לכפתור */
+}

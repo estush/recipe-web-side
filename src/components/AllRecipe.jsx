@@ -4,22 +4,23 @@ import { Outlet, useNavigate } from "react-router";
 import { useDispatch } from "react-redux";
 import "../css/Recipes.css";
 import { setCurrentRecipe } from "../redux/action";
-import { RecipeDetails } from "./RecipeDetails"; // ייבוא קומפוננטת RecipeDetails
+import { RecipeDetails } from "./RecipeDetails"; // Importing RecipeDetails component
 
 export const AllRecipe = () => {
-    const nav = useNavigate();
-    const dis = useDispatch();
+    const dispatch = useDispatch();
+    // State for categories, levels, users, recipes, and selected recipe
     const [categoryL, setCategoryL] = useState([]);
     const [levelL, setLevelL] = useState([]);
     const [userL, setUserL] = useState([]);
     const [recipe, setRecipe] = useState([]);
     const [category, setCategory] = useState("");
     const [level, setLevel] = useState("");
-    const [user, setUser] = useState(""); // ניהול המשתמש הנבחר
+    const [user, setUser] = useState("");
     const [selectedRecipe, setSelectedRecipe] = useState(null);
     const [showPopup, setShowPopup] = useState(false);
 
     useEffect(() => {
+        // Fetch all recipes, categories, levels, and users when the component mounts
         getAllRecipe()
             .then(x => setRecipe(x.data))
             .catch(err => console.log(err.message));
@@ -47,17 +48,17 @@ export const AllRecipe = () => {
     };
 
     const handleRecipeClick = (r) => {
-        dis(setCurrentRecipe(r));
-        setSelectedRecipe(r);
-        setShowPopup(true);
+        dispatch(setCurrentRecipe(r)); // Set the current recipe in the Redux store
+        setSelectedRecipe(r); // Set the selected recipe for the popup
+        setShowPopup(true); // Show the popup with recipe details
     };
 
     const closePopup = () => {
-        setShowPopup(false);
-        setSelectedRecipe(null);
+        setShowPopup(false); // Hide the popup
+        setSelectedRecipe(null); // Clear selected recipe
     };
 
-    // סינון המתכונים לפי קטגוריה, רמה ומשתמש
+    // Filter recipes based on selected category, level, and user
     const filteredRecipes = recipe.filter(r => {
         const matchesCategory = category ? r.categoryId === category : true;
         const matchesLevel = level ? r.levelId === level : true;
@@ -69,11 +70,10 @@ export const AllRecipe = () => {
         <>
             <form>
                 <div>
-                    <h1>Recipes</h1>
                     <div className="select-2">
                         <label className="select">
                             <select onChange={handleCategoryChange}>
-                                <option value=""> כל הקטגוריות </option>
+                                <option value="">Categories</option>
                                 {categoryL && categoryL.map(x => (
                                     <option key={x.id} value={x.id}>{x.name}</option>
                                 ))}
@@ -81,7 +81,7 @@ export const AllRecipe = () => {
                         </label>
                         <label className="select">
                             <select onChange={handleUserChange}>
-                                <option value="">  כל המשתמשים</option>
+                                <option value="">All users</option>
                                 {userL && userL.map(x => (
                                     <option key={x.id} value={x.id}>{x.name}</option>
                                 ))}
@@ -89,7 +89,7 @@ export const AllRecipe = () => {
                         </label>
                         <label className="select">
                             <select onChange={handleLevelChange}>
-                                <option value=""> כל הרמות </option>
+                                <option value="">Levels</option>
                                 {levelL && levelL.map(x => (
                                     <option key={x.id} value={x.id}>{x.name}</option>
                                 ))}
@@ -107,15 +107,15 @@ export const AllRecipe = () => {
                             </div>
                             <p>{r.id}</p>
                             <h1>{r.name}</h1>
-                            <p>user: {r.userName}</p>
-                            <p>level: {r.levelName}</p>
-                            <p>category: {r.categoryName}</p>
+                            <p>User: {r.userName}</p>
+                            <p>Level: {r.levelName}</p>
+                            <p>Category: {r.categoryName}</p>
                             <button onClick={() => handleRecipeClick(r)} className="buy">View Details</button>
                         </div>
                     </div>
                 ))}
             </div>
-            {showPopup && <RecipeDetails recipe={selectedRecipe} onClose={closePopup} />} {/* הוספת הפופאפ */}
+            {showPopup && <RecipeDetails recipe={selectedRecipe} onClose={closePopup} />} {/* Adding the popup for recipe details */}
             <Outlet />
         </>
     );

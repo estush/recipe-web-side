@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { getCategory, addCategory } from "./js/api";
 import { useSelector } from "react-redux";
-import "../css/Category.css"; // ייבוא קובץ CSS
+import "../css/Category.css"; 
+
 
 export const Category = () => {
     const user = useSelector(x => x.currentUser);
@@ -15,14 +16,14 @@ export const Category = () => {
             .catch(err => {
                 console.log(err.message);
             });
-    }, []); // הוספת [] כדי להפעיל את useEffect פעם אחת בלבד
-
+    }, []);
+    
     const send = (event) => {
         event.preventDefault();
         addCategory({ name: event.target[0].value })
             .then(x => {
-                setList(prevList => [...prevList, x.data]); // הוספת הקטגוריה החדשה לרשימה
-            })
+                setList(prevList => [...prevList, x.data]); //add new category
+             })
             .catch(err => {
                 console.log(err.message);
             });
@@ -30,7 +31,6 @@ export const Category = () => {
 
     return (
         <div className="category-container">
-            <h1>קטגוריות</h1>
             <div className="category-list">
                 {list && list.map(c => (
                     <div key={c.id} className="category-card">
@@ -39,9 +39,9 @@ export const Category = () => {
                 ))}
             </div>
             <form className="add-category-form" onSubmit={send}>
-                <label htmlFor='ca'>קטגוריה:</label>
-                <input type='text' id='ca' placeholder="הוסף קטגוריה" />
-                <input type="submit" value='הוסף' />
+                <label htmlFor='ca'>categories:</label>
+                <input type='text' id='ca' placeholder="add category " />
+                <input type="submit" value='add' />
             </form>
         </div>
     );

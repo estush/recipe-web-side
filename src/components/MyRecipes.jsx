@@ -2,8 +2,7 @@ import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import { Outlet, useNavigate } from "react-router";
 import { getAllRecipe } from "./js/api";
-import "../css/MyRecipes.css"; // ייבוא קובץ CSS
-
+import "../css/MyRecipes.css"; 
 export const MyRecipes = () => {
     const nav = useNavigate();
     const user = useSelector(u => u.currentUser);
@@ -17,15 +16,14 @@ export const MyRecipes = () => {
             .catch(err => {
                 console.log(err.message);
             });
-    }, []); // הוספת [] כדי להפעיל את useEffect פעם אחת בלבד
-
+    }, []); 
     const AddRecipe = () => {
         nav(`/AddRecipe`);
     };
 
     return (
         <div className="my-recipes">
-            <h1>האזור שלי</h1>
+            <h1>my recipes</h1>
             <div className="recipe-container">
                 {rlist && rlist.map(recipe => {
                     if (recipe.userId === user.id) {
@@ -39,10 +37,10 @@ export const MyRecipes = () => {
                             </div>
                         );
                     }
-                    return null; // במקרה ואין התאמה
-                })}
+                    return null; 
+                       })}
             </div>
-            <button className="add-recipe-button" onClick={AddRecipe}>הוסף מתכון</button>
+            <button className="add-recipe-button" onClick={AddRecipe}>add recipe </button>
             <Outlet />
         </div>
     );

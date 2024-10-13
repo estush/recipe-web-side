@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
 import { useEffect, useState } from "react";
 import { addResponse as apiAddResponse, getResIngrediant, getResponse } from "./js/api";
-import "../css/detail.css";
+import "../css/detail.scss";
 
 export const RecipeDetails = () => {
     const [res, setRes] = useState([]);
@@ -15,7 +15,6 @@ export const RecipeDetails = () => {
 
     useEffect(() => {
         if (recipeId && recipeId !== 0) {
-            // טוען תגובות ורכיבים
             getResponse(recipeId)
                 .then(x => setRList(x.data))
                 .catch(err => console.log(err.message));
@@ -23,11 +22,11 @@ export const RecipeDetails = () => {
             getResIngrediant(recipeId)
                 .then(x => setRes(x.data))
                 .catch(err => console.log(err.message));
-            setShowPopup(true); // פתח את הפופאפ
+            setShowPopup(true);
         } else {
-            setShowPopup(false); // אם אין ID תקף, אל תציג את הפופאפ
+            setShowPopup(false);
         }
-    }, [recipeId]); // כל שינוי ב-recipeId
+    }, [recipeId]);
 
     const addResponse = async (event) => {
         event.preventDefault();
@@ -54,7 +53,7 @@ export const RecipeDetails = () => {
     };
 
     const togglePopup = () => {
-        setShowPopup(false); // סגור את הפופאפ
+        setShowPopup(false);
     };
 
     return (
@@ -65,23 +64,23 @@ export const RecipeDetails = () => {
                         <button onClick={togglePopup} className="close-button">×</button>
                         {r && (
                             <div className="alldetails">
-                                <h2>id: {r.id}</h2>
-                                <h2>name: {r.name}</h2>
-                                <h2>preparationTime: {r.preparationTime}</h2>
-                                <h2>userId: {r.userId}</h2>
-                                <h2>userName: {r.userName}</h2>
-                                <h2>categoryId: {r.categoryId}</h2>
-                                <h2>categoryName: {r.categoryName}</h2>
-                                <h2>levelId: {r.levelId}</h2>
-                                <h2>levelName: {r.levelName}</h2>
-                                <h2>note: {r.note}</h2>
-                                <h2>instructions: {r.instructions}</h2>
+                                <h2>ID: {r.id}</h2>
+                                <h2>Name: {r.name}</h2>
+                                <h2>Preparation Time: {r.preparationTime}</h2>
+                                <h2>User ID: {r.userId}</h2>
+                                <h2>User Name: {r.userName}</h2>
+                                <h2>Category ID: {r.categoryId}</h2>
+                                <h2>Category Name: {r.categoryName}</h2>
+                                <h2>Level ID: {r.levelId}</h2>
+                                <h2>Level Name: {r.levelName}</h2>
+                                <h2>Note: {r.note}</h2>
+                                <h2>Instructions: {r.instructions}</h2>
 
                                 <button onClick={handleShowResponses} className="styled-input">Show Responses</button>
                                 {showResponses && responsesList.map(resp => (
                                     <div key={resp.id}>
-                                        <p>userName: {resp.userName}</p>
-                                        <p>comment: {resp.comment}</p>
+                                        <p>User Name: {resp.userName}</p>
+                                        <p>Comment: {resp.comment}</p>
                                     </div>
                                 ))}
 

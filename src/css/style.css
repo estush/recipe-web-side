@@ -1,8 +1,9 @@
 /* כלליים */
 body {
-  background-color: #f6f2ef; /* צבע רקע */
   margin: 0; /* הסרת רווחים סביב העמוד */
   font-family: Arial, sans-serif; /* קביעת גופן כללי */
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/50598/concrete-wall-background.jpg) center center fixed;
+  background-size: cover;
 }
 
 /* סרגל ניווט עליון */
@@ -14,24 +15,21 @@ body {
   z-index: 1000; /* מיקום מעל תוכן אחר */
   background-color: #fff; /* צבע רקע */
   padding: 0;
-  margin: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* צלליות קלות למראה מקצועי */
 }
 
-/* תצוגת השורות והעמודות בסרגל */
+/* עיצוב השורות והעמודות בסרגל */
 .row {
   display: flex; /* תצוגה עם Flexbox */
   align-items: center; /* יישור אנכי */
   height: 50px; /* גובה קבוע */
   width: 100%; /* לרוחב כל המסך */
-  margin: 0; /* הסרת מרג'ין */
 }
 
 /* עיצוב אזור החברה */
 .company-area {
   flex: 1; /* תופס מקום פנוי */
   display: flex; /* תצוגה עם Flexbox */
-  flex-direction: row; /* סדר את הפריטים בשורה */
   align-items: center; /* יישור אנכי למרכז */
   justify-content: center; /* יישור אופקי למרכז */
   padding: 1em; /* הוספת ריפוד פנימי */
@@ -43,20 +41,10 @@ body {
   text-align: center; /* יישור מרכזי */
   text-transform: uppercase; /* אותיות רישיות */
   margin: 0; /* הסרת מרג'ין */
-  display: flex; /* תצוגה עם Flexbox */
-  flex-direction: row; /* סדר את הפריטים בשורה */
-  align-items: center; /* יישור אנכי */
-  gap: 1em; /* רווח בין פריטים */
-}
-
-/* עיצוב פריטי ה-h1 ב-company-area */
-.company-area h4 h1 {
-  margin: 0; /* הסרת מרג'ין */
 }
 
 /* עיצוב הקישורים ב-company-area */
 .company-area .link {
-  margin: 0; /* הסרת מרג'ין */
   text-decoration: none; /* הסרת קו תחתון מהקישורים */
   color: #1c0d4e; /* צבע טקסט */
   font-size: 1em; /* גודל טקסט */
@@ -92,7 +80,6 @@ body {
   letter-spacing: 0.25em; /* רווח בין אותיות */
   text-transform: uppercase; /* אותיות רישיות */
   color: #e5c2a0; /* צבע טקסט */
-  text-decoration: none; /* ללא קישורים תחתונים */
   transition: color 0.3s, font-size 0.3s, font-weight 0.3s; /* אנימציה חלקה */
 }
 
@@ -112,7 +99,6 @@ body {
   color: #e5c2a0; /* צבע בעת לחיצה */
   text-decoration: underline; /* קו תחתון בעת לחיצה */
   font-weight: bold; /* הדגשת גופן */
-  font-size: large; /* גודל טקסט מוגדל מעט */
 }
 
 /* עיצוב הלוגו */
@@ -122,8 +108,6 @@ body {
   transform: translateX(-50%); /* למרכז את התמונה */
   top: 0; /* מיקום למעלה */
   height: 50px; /* גובה קבוע */
-  padding: 0;
-  margin: 0;
 }
 
 .top-nav-bar span img {
@@ -166,4 +150,41 @@ body {
   background: #f1f1ec; /* צבע הסקולבר */
   border: 4px solid #fcfafc; /* גבול של הסקולבר */
   border-radius: 8px; /* פינות מעוגלות */
+}
+
+/* חוקים לרספונסיביות */
+@media (max-width: 700px) {
+  .company-area h4 {
+    display: none; /* הסתרת שם המשתמש */
+  }
+
+  .top-nav-bar span.logo {
+    left: 10%; /* הזזת הלוגו לצד */
+  }
+
+  .menu-list li {
+    font-size: 1.42ch; /* הקטנת גודל הטקסט בתפריט */
+  }
+}
+
+@media (max-width: 480px) {
+  .menu-list {
+    flex-direction: column; /* ניתובים בשורה אחת */
+    align-items: flex-start; /* יישור לשמאל */
+  }
+
+  .menu-list li {
+    font-size: 1.2ch; /* הקטנת גודל הטקסט בתפריט */
+    margin-bottom: 0.5em; /* רווח בין פריטים */
+  }
+
+  .top-banner {
+    height: auto; /* התמונה לא תעלה על הניתובים */
+    max-height: 50vh; /* גבול גובה לתמונה */
+  }
+
+  .intro {
+    top: 10em; /* שינוי המיקום של ה-intro */
+    right: 2em; /* שינוי המיקום של ה-intro */
+  }
 }

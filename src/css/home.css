@@ -1,4 +1,4 @@
-/* Write your CSS code here */
+
 *,
 *::before,
 *::after {
@@ -6,16 +6,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font-family: "Rubik", sans-serif;
-    background-color: #f6f2ef;
-}
-
 .container {
     color: rgb(145, 103, 103);
     display: flex;

@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { getLevel, addLevel } from "./js/api";
-import "../css/Level.css"; // ייבוא קובץ CSS
-
+import "../css/Level.css"; 
 export const Level = () => {
     const [list, setList] = useState([]);
 
@@ -13,14 +12,12 @@ export const Level = () => {
             .catch(err => {
                 console.log(err.message);
             });
-    }, []); // הוספת [] כדי להפעיל את useEffect פעם אחת בלבד
-
-    // הוספת רמה
+    }, []); 
     const send = async (event) => {
         event.preventDefault();
         addLevel({ name: event.target[0].value })
             .then(x => {
-                setList(prevList => [...prevList, x.data]); // הוספת רמה לרשימה
+                setList(prevList => [...prevList, x.data]);
             })
             .catch(err => {
                 console.log(err.message);
@@ -36,10 +33,10 @@ export const Level = () => {
                 ))}
             </div>
             <form onSubmit={send} className="add-level-form">
-                <label htmlFor={'le'}>רמה:</label>
+                <label htmlFor={'le'}>level:</label>
                 <br />
-                <input type={'text'} id={'le'} placeholder="הזן רמה" required />
-                <input type="submit" value={'הוסף'} className="submit-button" />
+                <input type={'text'} id={'le'} placeholder="add level " required />
+                <input type="submit" value={'add'} className="submit-button" />
             </form>
         </div>
     );
